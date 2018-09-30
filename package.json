@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "morgan": "@latest",
     "nodemon": "^1.18.4"
   }
 }
